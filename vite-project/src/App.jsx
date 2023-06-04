@@ -9,6 +9,19 @@ function App() {
   return (
     <>
       <div>
+        <h1>Sebastian Bednarek</h1>
+        <h2>nr albumu: 113793</h2>
+      </div>
+      <div>
+        <button>Home</button>
+        <button>Galeria</button>
+        <button>Wyszukaj</button>
+        <button>Logowanie</button>
+      </div>
+      <div>
+export default App;
+      </div>
+      <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
